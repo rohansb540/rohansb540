@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohansb540
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in ... Product Development
 - 🌱 I’m currently learning ... Next 13, Web3
 - 💞️ I’m looking to collaborate on ... 
